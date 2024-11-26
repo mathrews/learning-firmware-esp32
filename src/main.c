@@ -9,7 +9,7 @@
 #define GPIO_PIN 15  // Define o número do pino
 #define GPIO_PIN2 2
 #define ADC_WIDTH ADC_WIDTH_BIT_12  // Definir resolução do ADC para 12 bits
-#define ADC1_CHANNEL ADC1_CHANNEL_0 // GPIO2 está no ADC1_CHANNEL_0
+#define ADC1_CHANNEL ADC1_CHANNEL_0 // GPIO36 está no ADC1_CHANNEL_0
 
 
 void app_main(void)
